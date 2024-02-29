@@ -1,5 +1,4 @@
-👋 Hi, I’m Andreas. 
-Just a normal person who wants to code
+👋
 
 
 <!---
